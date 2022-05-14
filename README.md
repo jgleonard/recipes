@@ -3,6 +3,7 @@
 
 # Healthy
 * [Protein Pancakes](ProteinPancakes.md)
+* [Butternut Squash Risotto](ButternutSquashRisotto.md)
 
 # Not Healthy
 * [Blondies](Blondies.md)
