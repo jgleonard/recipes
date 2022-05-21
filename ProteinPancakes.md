@@ -7,6 +7,12 @@
 * Dash of Salt
 * Butter for greasing the pan
 
+# Macros
+*based on the linked products, excluding butter/syrup*
+
+| Calories | Fat | Carbs | Protein |
+| :---: | :---: | :---: | :---: |
+| 377.5 | 12g | 3g | 64g |
 # Instructions
 1. Place a non-stick skillet on the stove over medium heat.  Add butter and let melt.  
 2. Mix the eggs, protein powder, and baking powder in a large bowl. 
@@ -17,9 +23,3 @@
 # Notes
 * They tend to be a little dry, but the syrup and/or butter added takes care of it.
 
-# Macros
-*based on the linked products, excluding butter/syrup*
-
-| Calories | Fat | Carbs | Protein |
-| :---: | :---: | :---: | :---: |
-| 377.5 | 12g | 3g | 64g |
